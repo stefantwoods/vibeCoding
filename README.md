@@ -9,3 +9,4 @@ no thoughts all vibes
 - Cursor IDE
     - Create my own dev workflow
     - [PRD](./PRD.md)
+    - MCP
